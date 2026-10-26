@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent_orange">#FF9800</color>
+    <color name="surface_bg">#F5F5F7</color>
+    <color name="text_main">#212121</color>
+    <color name="text_muted">#757575</color>
+    <color name="stroke_border">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="danger_red">#D32F2F</color>
+</resources>
