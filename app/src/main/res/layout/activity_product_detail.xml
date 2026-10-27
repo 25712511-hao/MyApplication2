@@ -71,19 +71,11 @@
             android:orientation="horizontal">
 
             <RadioButton
-                android:id="@+id/rbSizeS"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="16dp"
-                android:text="S"
-                android:buttonTint="@color/primary_blue" />
-
-            <RadioButton
                 android:id="@+id/rbSizeM"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="16dp"
-                android:text="M"
+                android:text="Thường"
                 android:checked="true"
                 android:buttonTint="@color/primary_blue" />
 
@@ -91,7 +83,7 @@
                 android:id="@+id/rbSizeL"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="L"
+                android:text="Nâng Cao"
                 android:buttonTint="@color/primary_blue" />
         </RadioGroup>
 
